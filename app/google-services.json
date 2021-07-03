@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664739298274",
+    "project_id": "bustit-d3de4",
+    "storage_bucket": "bustit-d3de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664739298274:android:6d5c97cdd53e95dac397bb",
+        "android_client_info": {
+          "package_name": "com.example.bustit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664739298274-5d9iba25a4jfm5gaqsqnue7fpe60kbp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTGfo0tujjwufmYl_9PVe9_Of2zODw4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664739298274-5d9iba25a4jfm5gaqsqnue7fpe60kbp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
